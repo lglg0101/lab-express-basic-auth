@@ -1,0 +1,27 @@
+body {
+  background: rgb(238, 174, 202);
+  background: linear-gradient(121deg, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+  margin: 0;
+  padding: 50px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: white;
+}
+
+.homelink {
+  color: navy;
+  font-size: 20px;
+
+}
+
+input:invalid {
+  border: 1px dashed red;
+}
+
+input:valid {
+  border: 1px solid black;
+}
+
+/*# sourceMappingURL=style.css.map */
